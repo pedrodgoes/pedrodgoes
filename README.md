@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pedrodgoes
-- 👀 I’m interested in new opportunities and gain experience in our beloved area.
-- 🌱 I’m currently learning a little of everything, I try to be a generalist but an expert in the motivation to learn new things.
-- 💞️ I’m looking to collaborate on projects that aim to help people or companies aiming at customer satisfaction.
-- 📫 How to reach me by email pedrogoesbj@gmail.com or by wpp +55 (92) 99459-6228.
+- 👋 Hi, I'm @pedrodgoes
+- 👀 I'm interested in new opportunities and gaining experience in beloved field.
+- 🌱 I'm updating a little bit of everything, I'm looking to improve myself in the frontend area, I've been working in this area for more than two years and I want to work more.
+- 💞️ I seek to collaborate on projects that aim to help people or companies keep the customer.
+- 📫 How to contact me by email pedrogoesbj@gmail.com or wpp +55 (92) 99459-6228.
 
 
 <!---
